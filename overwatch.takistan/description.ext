@@ -1,0 +1,4 @@
+author = "Mega";
+onLoadName = "Overwatch";
+onLoadMission = "Somos ANIMAS";
+loadScreen = "fotoCarga.jpg";

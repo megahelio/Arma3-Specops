@@ -1,0 +1,6 @@
+author = "Mega";
+onLoadName = "A Ciegas";
+onLoadMission = "Somos ANIMAS";
+loadScreen = "fotoCarga.jpg";
+
+

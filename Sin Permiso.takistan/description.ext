@@ -1,0 +1,4 @@
+author = "Mega";
+onLoadName = "Sin Permiso";
+onLoadMission = "Somos ANIMAS";
+loadScreen = "fotoCarga.jpg";

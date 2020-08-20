@@ -1,0 +1,4 @@
+author = "Mega";
+onLoadName = "Negociaciones Agresivas";
+onLoadMission = "Somos ANIMAS";
+loadScreen = "fotoCarga.jpg";
